@@ -5,7 +5,6 @@
 - Install AWS CLI
 - Install VS Code Editor
 - Install HashiCorp Terraform plugin for VS Code
-- Test
 
 
 ## Step-02: MACOS: Terraform Install
